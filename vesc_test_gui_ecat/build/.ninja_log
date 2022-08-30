@@ -1,0 +1,8 @@
+# ninja log v5
+0	88	0	CMakeFiles/vesc_test_gui_ecat_autogen	7d25f0f811c44b95
+0	88	0	vesc_test_gui_ecat_autogen/mocs_compilation.cpp	7d25f0f811c44b95
+89	117	1661871031908397074	CMakeFiles/vesc_test_gui_ecat.dir/src/Shared_Memory.cpp.o	bdbac402eeb74720
+88	726	1661871032517379236	CMakeFiles/vesc_test_gui_ecat.dir/vesc_test_gui_ecat_autogen/mocs_compilation.cpp.o	fce5674d2d233072
+88	774	1661871032564377859	CMakeFiles/vesc_test_gui_ecat.dir/src/main.cpp.o	5613a17244120e55
+88	913	1661871032704373759	CMakeFiles/vesc_test_gui_ecat.dir/src/mainwindow.cpp.o	e1e2ee8eb5efe07c
+913	1111	1661871032896368136	vesc_test_gui_ecat	50e27335c55bfcdb
