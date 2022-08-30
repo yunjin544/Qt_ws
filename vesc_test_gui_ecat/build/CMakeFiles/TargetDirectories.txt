@@ -1,8 +1,0 @@
-/home/drcl-yunjin/Documents/Qt_ws/vesc_test_gui_ecat/build/CMakeFiles/install/strip.dir
-/home/drcl-yunjin/Documents/Qt_ws/vesc_test_gui_ecat/build/CMakeFiles/install/local.dir
-/home/drcl-yunjin/Documents/Qt_ws/vesc_test_gui_ecat/build/CMakeFiles/install.dir
-/home/drcl-yunjin/Documents/Qt_ws/vesc_test_gui_ecat/build/CMakeFiles/list_install_components.dir
-/home/drcl-yunjin/Documents/Qt_ws/vesc_test_gui_ecat/build/CMakeFiles/rebuild_cache.dir
-/home/drcl-yunjin/Documents/Qt_ws/vesc_test_gui_ecat/build/CMakeFiles/edit_cache.dir
-/home/drcl-yunjin/Documents/Qt_ws/vesc_test_gui_ecat/build/CMakeFiles/vesc_test_gui_ecat.dir
-/home/drcl-yunjin/Documents/Qt_ws/vesc_test_gui_ecat/build/CMakeFiles/vesc_test_gui_ecat_autogen.dir
